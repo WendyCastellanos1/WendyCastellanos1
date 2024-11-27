@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WendyCastellanos1
-- 👀 I’m interested in full stack java development, or backend development, or just database development! Java or C#, any rdbms, but not fancy front-end!
+- 👀 I’m interested in full stack java development, or backend development, or just database development! Java or C#, any rdbms.
 - 🌱 I’m currently learning Docker and containerization.
 - 💞️ I’m looking to collaborate!
 - 📫 How to reach me: wendy.castellanos1@gmail.com
